@@ -1,6 +1,17 @@
 # What's your favorite restaurant in japan?
-
-# List of place
+ Example:
 - NAIST cafeteria
 - Saizeriya
+# List of place
+- Ano Ramen Seisakujo
 - Comeda coffee
+- Tenkaippin
+- Torikaji ippai
+- KFC
+- Saizeriya
+- Gifu-Tanmen
+- Gusto
+- Sushiro
+- Sawayaka (hamburger restaurant in Shizuoka)
+-
+
