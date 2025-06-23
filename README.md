@@ -3,3 +3,4 @@
 # List of place
 - NAIST cafeteria
 - Saizeriya
+- Comeda coffee
