@@ -4,6 +4,7 @@
 - Saizeriya
 # List of place
 - Ano Ramen Seisakujo
+- Comeda coffee
 - Tenkaippin
 - Torikaji ippai
 - KFC
@@ -13,3 +14,4 @@
 - Sushiro
 - Sawayaka (hamburger restaurant in Shizuoka)
 -
+
