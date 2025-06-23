@@ -4,3 +4,4 @@
 - Ise Jinguu
 - Kashihara Jingu
 - Kiyomizu-dera
+- Yatadera
