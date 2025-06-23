@@ -3,3 +3,4 @@
 ## List of shrines
 - Ise Jinguu
 - Kashihara Jingu
+- Kiyomizu-dera
