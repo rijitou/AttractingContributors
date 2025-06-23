@@ -5,3 +5,4 @@
 - Kashihara Jingu
 - Kiyomizu-dera
 - Yatadera
+- Meiji Jingu
