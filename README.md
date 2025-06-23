@@ -4,6 +4,7 @@
 - Saizeriya
 # List of place
 - Ano Ramen Seisakujo
+- Bikkuri Donkey
 - Comeda coffee
 - Tenkaippin
 - Torikaji ippai
