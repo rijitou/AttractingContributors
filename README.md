@@ -15,4 +15,6 @@
 - Sushiro
 - Sawayaka (hamburger restaurant in Shizuoka)
 - Jolly Pasta
+- Saizeriya
 - parents' home
+
