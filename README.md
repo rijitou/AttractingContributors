@@ -9,3 +9,4 @@
 - Hollow Knight
 - Resident Evil 7
 - Shadow Corridor
+- Splatoon 3
