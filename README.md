@@ -8,3 +8,4 @@
 - Smash Bros
 - Hollow Knight
 - Resident Evil 7
+- Splatoon 3
