@@ -11,3 +11,4 @@
 - Shadow Corridor
 - Splatoon 3
 - F1
+- R.E.P.O.
