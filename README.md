@@ -10,3 +10,4 @@
 - Resident Evil 7
 - Shadow Corridor
 - Splatoon 3
+- R.E.P.O.
